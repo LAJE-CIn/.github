@@ -23,7 +23,7 @@
 
 Somos uma liga estudantil do **Centro de Informática da UFPE**. Tudo começou com uma ideia simples: se a gente gosta tanto de jogar, por que não fazer os nossos jogos?
 
-Hoje, a LAJE reúne programadores, artistas 2D e 3D, game designers, roteiristas e compositores. Nos organizamos em equipes, e cada uma leva seu projeto do rascunho até a publicação, com prazos, revisões e entregas de verdade. O que nos une é a paixão por games, que gera cuidado com o produto final, feito com carinho e atenção aos detalhes do level design ao *game feel*.
+Hoje, a LAJE reúne programadores, artistas 2D e 3D, game designers, roteiristas e compositores. Nós nos organizamos em equipes, e cada uma leva seu projeto do rascunho até a publicação, com prazos, revisões e entregas de verdade. O que nos une é a paixão por games, e é ela que nos faz cuidar de cada detalhe, do *level design* ao *game feel*.
 
 Nosso método é jogar cedo, quebrar, consertar e jogar de novo.
 
@@ -31,7 +31,7 @@ Nosso método é jogar cedo, quebrar, consertar e jogar de novo.
 
 ## 🧙 Escolha sua classe
 
-Toda *party* precisa de um *casting* diversas classes e especialidades. Na LAJE, a party é assim:
+Toda *party* precisa de classes e especialidades diferentes. Na LAJE, a nossa é assim:
 
 | | Classe | Habilidades |
 |---|---|---|
@@ -56,14 +56,14 @@ Toda *party* precisa de um *casting* diversas classes e especialidades. Na LAJE,
 
 ## 🎒 Inventário
 
-Nossas mochilas contém as ferramentas mais úteis
+Nossas mochilas contêm as ferramentas que mais usamos.
 
 | | |
 |---|---|
 | **Engines** | Unreal Engine 5, Unity e Godot |
 | **Linguagens** | C++, C#, GDScript, Python e TypeScript |
 | **Criação & Arte** | Blender, Aseprite, Photoshop e Figma |
-| **Colaboração** | Desenvolvimento Ágil, Código Colaborativo e Autogerenciamento |
+| **Colaboração** | Desenvolvimento ágil, código colaborativo e autogerenciamento |
 
 ---
 
@@ -71,7 +71,7 @@ Nossas mochilas contém as ferramentas mais úteis
 
 Os **Repositórios em Destaque** deste perfil reúnem o código, as ferramentas e os jogos das nossas equipes.
 
-Parte deles pode ser jogada no navegador ou baixada no **[Itch.io](https://itch.io)** e no **[Portal da LAJE](https://laje-cin.vercel.app/)**. Quando jogar, nos conte o que achou.
+Parte deles pode ser jogada no navegador ou baixada no **[Itch.io](https://itch.io)** e no **[Portal da LAJE](https://laje-cin.vercel.app/)**. Quando jogar, conte para a gente o que achou.
 
 <!--
 Sugestão: adicionar aqui 3 a 5 projetos com capa/GIF, uma linha de descrição, engine usada, tamanho da equipe e link para jogar. Exemplo:
@@ -84,9 +84,9 @@ Uma frase objetiva sobre o jogo.
 
 ---
 
-## 🎮 Join as Player 2 
+## 🎮 Join as Player 2
 
-Se você faz parte de uma outra comunidade, empresa, de um estúdio, ou só tem uma ideia boa e quer trocar uma conversa, a LAJE tem espaço. Algumas formas de jogar junto:
+Se você faz parte de uma empresa, de um estúdio ou de outra comunidade, ou se só tem uma ideia boa e quer trocar uma conversa, a LAJE tem espaço. Algumas formas de jogar junto:
 
 * **Apoiar nossos eventos:** patrocinar ou propor temas e desafios para as game jams.
 * **Compartilhar experiência:** dar uma palestra ou um workshop sobre o seu trabalho e o mercado.
