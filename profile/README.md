@@ -56,7 +56,7 @@ Toda *party* precisa de classes e especialidades diferentes. Na LAJE, a nossa é
 
 ## 🎒 Inventário
 
-Nossas mochilas contêm as ferramentas que mais usamos.
+Nada de itens decorativos: Nossas mochilas contam com os melhores equipamentos disponíveis.
 
 | | |
 |---|---|
